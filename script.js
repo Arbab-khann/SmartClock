@@ -71,7 +71,7 @@ function message(time) {
   }
 }
 
-// dynamical adding the value on the schedule
+// dynamical adding the value on the History-container
 
 let flag = false;
 function Alarm() {
